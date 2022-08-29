@@ -1,0 +1,3 @@
+[submodule "visor"]
+	path = visor
+	url = https://github.com/ign-argentina/argenmap-leaflet-impactar-tpl.git
